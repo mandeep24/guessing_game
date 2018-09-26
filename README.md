@@ -5,7 +5,6 @@ Guess the correct number between 0-10!
 
 
 from random import randint
-
 def gg():
     answer=randint(0,10)
     name=input('Please enter your name: ')
