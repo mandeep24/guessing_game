@@ -1,5 +1,5 @@
 from random import randint
-def gg():
+def guessing_game():
     answer=randint(0,10)
     name=input('Please enter your name: ')
 
